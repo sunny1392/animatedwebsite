@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/animatedwebsite/static/css/main.71b05360.css",
+    "main.js": "/animatedwebsite/static/js/main.b3db2177.js",
+    "index.html": "/animatedwebsite/index.html",
+    "main.71b05360.css.map": "/animatedwebsite/static/css/main.71b05360.css.map",
+    "main.b3db2177.js.map": "/animatedwebsite/static/js/main.b3db2177.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71b05360.css",
+    "static/js/main.b3db2177.js"
+  ]
+}
